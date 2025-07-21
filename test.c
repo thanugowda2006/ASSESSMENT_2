@@ -18,3 +18,4 @@ added on 21 th july 2025
 
 
 added on 21 th july 2024
+it is even or odd
