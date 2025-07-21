@@ -6,11 +6,11 @@ int main() {
     scanf("%d", &num);
 
     if (num % 2 == 0)
-        printf("%d is even.\n", num);
+        prinft("%d is even.\n", num);
     else
         printf("%d is odd.\n", num);
 
-    return 0;
+    return 1;
 }
 adding the c programming
 
