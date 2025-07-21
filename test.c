@@ -12,6 +12,10 @@ int main() {
 
     return 1;
 }
+<<<<<<< HEAD
 adding the c programming
 added on 21 th july 2025
 
+=======
+added on 21 th july 2024
+>>>>>>> b2
