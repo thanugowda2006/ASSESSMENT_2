@@ -12,3 +12,4 @@ int main() {
 
     return 0;
 }
+adding the odd or ceven function in the code
