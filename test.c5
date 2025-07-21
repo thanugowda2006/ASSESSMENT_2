@@ -1,0 +1,7 @@
+int temp = num >> 1;
+  temp = temp << 1;
+
+  if (temp == num)
+      printf("Even\n");
+  else
+      printf("Odd\n");
