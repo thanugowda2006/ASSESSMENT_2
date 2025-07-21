@@ -12,3 +12,5 @@ int main() {
 
     return 0;
 }
+adding the c programming
+
